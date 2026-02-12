@@ -1,0 +1,2 @@
+# GenAI-bootcamps
+GenAI bootcamps
